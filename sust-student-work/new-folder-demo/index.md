@@ -3,10 +3,10 @@ title: Seedling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/loose leaf farm.jpeg
+thumbnail: images/seedling-card.png
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/loose leaf pond.jpeg
-header-title: Loose Leaf Farm - Sarah Robertson
+header-image: images/seedling-card.png
+header-title:
 header-position: 0px
 toc-section: first
 geo: [37.88, -81.08]
