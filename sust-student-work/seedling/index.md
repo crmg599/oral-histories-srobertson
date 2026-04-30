@@ -25,7 +25,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 
 
 ## Your First Section Heading
-{% include images/figure.html
+{% include images/loose leaf farm.jpeg
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
